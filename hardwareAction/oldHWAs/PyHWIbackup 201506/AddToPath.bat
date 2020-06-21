@@ -1,0 +1,3 @@
+
+
+setx PYTHONPATH %CD%\..
